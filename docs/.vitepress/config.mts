@@ -2,14 +2,17 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
-  base: "/ieg-digital-static-demo/",
+  title: "Religion und Politik. Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit",
+  description: "Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit",
+  base: "/konjunkturen",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+    logo: 'https://www.ieg-mainz.de/assets/images/IEG_Logo.png',
+	nav: [
+      { text: 'Start', link: '/' },
+      { text: 'Impressum', link: '/impressum' },
+	  { text: 'Datenschutz', link: '/datenschutz' },
+	  { text: 'IEG Mainz', link: 'https://ieg-mainz.de' }
     ],
 
     sidebar: [
