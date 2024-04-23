@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Religion und Politik"
-  text: ""
-  tagline: Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit
+  text: <p class="tagline" data-v-72cc4481="" style="color:black;font-weight:700;">Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit</p>
+  tagline: <p style="font-weight:300;"><em>Leibniz-Institut für Europäische Geschichte (IEG)</em></p>
   actions:
     - theme: brand
       text: Einführung
@@ -43,4 +43,3 @@ features:
     title: Religion und Politik im Ersten Weltkrieg
     details: Protestantische Gottesdienstordnungen
 ---
-
