@@ -4,12 +4,12 @@ layout: home
 
 hero:
   name: "Religion und Politik"
-  text: <p class="tagline" data-v-72cc4481="" style="color:black;font-weight:700;">Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit</p>
-  tagline: <p style="font-weight:300;"><em>Leibniz-Institut für Europäische Geschichte (IEG)</em></p>
+  text: <p style="font-size:30px; line-height:40px; font-weight:normal;">Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit</p>
+  tagline: <em>Leibniz-Institut für Europäische Geschichte (IEG)</em>
   actions:
     - theme: brand
-      text: Einführung
-      link: /einfuehrung
+      text: Einleitung
+      link: /einleitung
     - theme: alt
       text: Quellengattungen
       link: /quellengattungen

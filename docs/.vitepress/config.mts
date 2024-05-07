@@ -17,7 +17,9 @@ export default defineConfig({
     ],
 	search: {
       provider: 'local'
-	}
+	},
+	outlineTitle: 'Inhalt',
+	returnToTopLabel: 'zurück'
   },
   markdown: {
     config: (md) => {
