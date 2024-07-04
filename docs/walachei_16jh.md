@@ -175,7 +175,7 @@ zeigen ist.
     Südosteuropas. Vom frühen Mittelalter bis zur Gegenwart, Regensburg
     2011.
 -   Suraiya FAROQHI, Geschichte des Osmanischen Reiches, München
-    ^6^2014.
+    <sup>6</sup>2014.
 -   Cernal KAFADAR, Between Two Worlds. The Construction of the Ottoman
     State, Los Angeles 1995.
 -   Tia M. KOLBABA, The Byzantine lists. Errors of the Latins, Urbana
@@ -213,7 +213,7 @@ fragt!«
 
 Das altrumänische Original, nach dem diese Übersetzung angefertigt
 wurde: Neagoe BASARAB, Învățăturile lui Neagoe Basarab către fiul său
-Theodosie, hg. v. Florica MOISIL / Dan ZAMFIRESCU, Bukarest ^2^1984, S.
+Theodosie, hg. v. Florica MOISIL / Dan ZAMFIRESCU, Bukarest <sup>2</sup>1984, S.
 58 bzw. S. 164. Übersetzung von Mihai-D. Grigore.
 
 ## Quelle 2: Manuel von Corinth, Schreiben an Neagoe Basarab, Woiwoden der Walachei {#quelle2}
@@ -676,8 +676,9 @@ Mihai-D. GRIGORE, Zwischen orthodoxer Konformität und politischem
 Pragmatismus: Die Walachei im 16. Jahrhundert, in: »Religion und
 Politik. Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in
 der Neuzeit«. Hg. v. Leibniz-Institut für Europäische Geschichte (IEG),
-URL:
-[Anmerkungen
+URL
+
+## Anmerkungen
 
 [^1]: *Paschaluk* (*Eyalet*): Bezeichnung für »Provinz« innerhalb des
     Osmanischen Reichs; *Budin Eyalet* bedeutet z.B. »die Provinz von
@@ -759,7 +760,7 @@ URL:
     altosmanischen Chroniken des Oruç und des Anonymus Hanivaldanus,
     hrsg. v. Richard F. KREUTEL, Graz u. a. 1978, S. 254—258; Josef
     MATUZ, Das Osmanische Reich. Grundlinien seiner Geschichte,
-    Darmstadt ^3^1994, S. 78f; Ferenc MAJOROS u.a., Das Osmanische
+    Darmstadt <sup>3</sup>1994, S. 78f; Ferenc MAJOROS u.a., Das Osmanische
     Reich. 1300—1922, Wiesbaden 2004, S. 208f.
 
 [^11]: Vgl. Endre VERESS (Hg.), Acta et epistolae relationum
@@ -791,7 +792,7 @@ URL:
     vgl. Nicolae IORGA, Bizanţ după Bizanţ, Bukarest 1972, S. 30f.
 
 [^16]: Josef MATUZ, Das Osmanische Reich. Grundlinien seiner Geschichte,
-    Darmstadt ^3^1994, S. 82f.
+    Darmstadt <sup>3</sup>1994, S. 82f.
 
 [^17]: Vgl. Neagoe BASARAB, Învățăturile lui Neagoe Basarab către fiul
     său Theodosie. Versiunea românească de la Curtea de Argeș, hrsg. v.

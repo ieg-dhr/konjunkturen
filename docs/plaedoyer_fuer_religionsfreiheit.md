@@ -131,7 +131,7 @@ Gemeinwesen, sofern sie sich an die geltenden Gesetze hielten.
 -   Earl Morse WILBUR, A history of Unitarianism: Socinianism and its
     antecedents, Boston 1946.
 -   George Huntston WILLIAMS, The Radical Reformation, Kirksville, MO
-    ^3^2000.
+    <sup>3</sup>2000.
 
 ## Quelle 1: Die Warschauer Konföderation 1573 {#quelle1}
 

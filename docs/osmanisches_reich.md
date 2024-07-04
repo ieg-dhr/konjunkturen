@@ -165,12 +165,12 @@ und Formen von Solidarität jenseits ethnisch-religiöser Loyalitäten.
 
 -   Cambridge History of Turkey, 4 Bde., Cambridge 2006--2013.
 -   Klaus KREISER/Christoph K. NEUMANN, Kleine Geschichte der Türkei,
-    Stuttgart ^2^2009.
+    Stuttgart <sup>2</sup>2009.
 -   Carolin FINKEL, Osman's Dream. The History of the Ottoman Empire,
     New York 2005.
--   Donald QUATAERT, The Ottoman Empire, 1700--1922, Cambridge ^2^2005.
+-   Donald QUATAERT, The Ottoman Empire, 1700--1922, Cambridge <sup>2</sup>2005.
 -   Suraiya FAROQHI, Kultur und Alltag im Osmanischen Reich, München
-    ^2^2003.
+    <sup>2</sup>2003.
 
 ## Quelle 1: Ḥasan Kāfī Aḳḥiṣārī, Die Grundlagen von Herrschaft. Über die Weltordnung (Uṣūlu'l-Ḥikem fī Niẓāmu'l-ʿĀlem), Ende 16. Jh. {#quelle1}
 
@@ -1251,7 +1251,7 @@ eingesetzt.
 ## Anmerkungen
 
 [^1]: Angelehnt an Denise KLEIN, Osmanisches Reich, in: Ralf ELGER
-    (Hg.), Kleines Islamlexikon, München voraussichtlich ^6^2017.
+    (Hg.), Kleines Islamlexikon, München voraussichtlich <sup>6</sup>2017.
 
 [^2]: Um die Lektüre zu erleichtern, folgt die Schreibung osmanischer
     Namen, Titel und Termini einer an das moderne Türkisch angelehnten,
@@ -1517,7 +1517,7 @@ eingesetzt.
 
 [^51]: Zu osmanischen Kadiamtsregistern vgl. Suraiya FAROQHI, Sidјill
     (in Ottoman Administrative Usage), in: Encyclopaedia of Islam, Bd.
-    9, Leiden ^2^1997, S. 539--545. Zum Amt des Kadis vgl. Rossitsa
+    9, Leiden <sup>2</sup>1997, S. 539--545. Zum Amt des Kadis vgl. Rossitsa
     GRADEVA, On the Judicial Functions of Kadi Courts. Glimpses from
     Sofia in the Seventeenth Century, in: Wiener Zeitschrift zur
     Geschichte der Neuzeit 2 (2005), S. 15--43. Zu Nicht-Muslimen vor

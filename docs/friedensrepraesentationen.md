@@ -1644,7 +1644,7 @@ Verordnung](Category:_Verordnung "wikilink")
 
 [^59]: Zum Religionskriegsbegriff vgl. die Beiträge in Franz BRENDLE /
     Anton SCHINDLING (Hg.), Religionskriege im Alten Reich und in
-    Alteuropa, Münster ^2^2010; Johannes BURKHARDT, War der
+    Alteuropa, Münster <sup>2</sup>2010; Johannes BURKHARDT, War der
     dreißigjährige Krieg ein Religionskrieg?, in: Ders., Der
     Dreißigjährige Krieg, Frankfurt am Main 2003, S. 128—154.
 
@@ -1652,7 +1652,7 @@ Verordnung](Category:_Verordnung "wikilink")
     Gottes. Kriegserfahrungen und Religion im Heiligen Römischen Reich
     Deutscher Nation im Zeitalter des Dreißigjährigen Krieges. Beiträge
     aus dem Tübinger Sonderforschungsbereich »Kriegserfahrungen - Krieg
-    und Gesellschaft in der Neuzeit«, Münster ^2^2002.
+    und Gesellschaft in der Neuzeit«, Münster <sup>2</sup>2002.
 
 [^61]: Vgl. Luise SCHORN-SCHÜTTE, Gottes Wort und Menschenherrschaft.
     Politisch-Theologische Sprachen im Europa der Frühen Neuzeit,

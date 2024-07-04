@@ -1166,7 +1166,7 @@ Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), URL:
 [^43]: Vgl. weiterführend zu den Kulturkämpfen: Christopher CLARK,
     Kulturkampf in Europa im 19. Jahrhundert, Leipzig 2003; Manuel
     BORUTTA, Antikatholizismus. Deutschland und Italien im Zeitalter der
-    europäischen Kulturkämpfe, Göttingen ^2^2011.
+    europäischen Kulturkämpfe, Göttingen <sup>2</sup>2011.
 
 [^44]: Vgl. MÜNKLER, Der große Krieg, S. 222—229; Jörn LEONHARD, Die
     Büchse der Pandora. Geschichte des Ersten Weltkriegs, München 2014,
