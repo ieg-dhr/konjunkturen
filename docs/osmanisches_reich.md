@@ -1248,6 +1248,9 @@ komplexen Geflecht von Ideen, Sprechakten und Handlungen und wurden von
 unterschiedlichen Akteuren in unterschiedlichen Zeiten unterschiedlich
 eingesetzt.
 
+## Zitationsempfehlung des Beitrags
+Denise KLEIN, Religion und Politik im Osmanischen Reich: Grundlinien vom 16. bis 18. Jahrhundert, in: »Religion und Politik. Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit«. Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), URL: [https://wiki.ieg-mainz.de/konjunkturen/index.php?title=Religion_und_Politik_im_Osmanischen_Reich:_Grundlinien_vom_16._bis_18._Jahrhundert](https://wiki.ieg-mainz.de/konjunkturen/index.php?title=Religion_und_Politik_im_Osmanischen_Reich:_Grundlinien_vom_16._bis_18._Jahrhundert)
+
 ## Anmerkungen
 
 [^1]: Angelehnt an Denise KLEIN, Osmanisches Reich, in: Ralf ELGER

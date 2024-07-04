@@ -676,7 +676,7 @@ Mihai-D. GRIGORE, Zwischen orthodoxer Konformität und politischem
 Pragmatismus: Die Walachei im 16. Jahrhundert, in: »Religion und
 Politik. Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in
 der Neuzeit«. Hg. v. Leibniz-Institut für Europäische Geschichte (IEG),
-URL
+URL: [https://wiki.ieg-mainz.de/konjunkturen/index.php?title=Zwischen_orthodoxer_Konformität_und_politischem_Pragmatismus:_Die_Walachei_im_16._Jahrhundert](https://wiki.ieg-mainz.de/konjunkturen/index.php?title=Zwischen_orthodoxer_Konformität_und_politischem_Pragmatismus:_Die_Walachei_im_16._Jahrhundert)
 
 ## Anmerkungen
 
