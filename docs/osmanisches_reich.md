@@ -342,21 +342,11 @@ die Art und Weise des Regierens«, in: Archiv für Slavische Philologie 32
 
 ### Bildquellen
 
--   [Arken search service at the National Library of
-    Sweden](https://arken.kb.se/se-s-hs-ral-8-o-nr-10)
--   [World Digital Library LoC](https://www.wdl.org/en/item/17190/),
-    [Download
-    PDF](https://wiki.ieg-mainz.de/konjunkturen/images/17190.pdf)
--   [Wikimedia Commons: Rålamb Costume
-    Book](https://commons.wikimedia.org/wiki/Category:R%C3%A5lamb_Costume_Book)
-
-### Bibliographie {#bibliographie_1}
-
-Schwedische Nationalbibliothek, Cod.Rål. 8:o nr 10. Bilder abgerufen
+- Schwedische Nationalbibliothek, Cod.Rål. 8:o nr 10. Bilder abgerufen
 unter: <http://goran.baarnhielm.net/draktbok/eng/intro.htm> (Aufruf am:
-17.09.2017) und
-[http://commons.wikimedia.org/wiki/Category:Rålamb_Costume_Book](http://commons.wikimedia.org/wiki/Category:Rålamb_Costume_Book)
-(Aufruf am: 17.09.2017).
+17.09.2017) 
+- [Wikimedia Commons: Rålamb Costume
+    Book](https://commons.wikimedia.org/wiki/Category:R%C3%A5lamb_Costume_Book)
 
 ## Quelle 3: Ferman / Kleiderordnung, erstes Drittel 17. Jh. {#quelle3}
 
