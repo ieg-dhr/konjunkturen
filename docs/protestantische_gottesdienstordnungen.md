@@ -989,7 +989,7 @@ Auftrag Gottes führte.
 Andrea Hofmann, Religion und Politik im Ersten Weltkrieg:
 Protestantische Gottesdienstordnungen, in: »Religion und Politik. Eine
 Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit«.
-Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), URL:
+Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), 2017, URL:
 <https://wiki.ieg-mainz.de/konjunkturen/index.php?title=Religion_und_Politik_im_Ersten_Weltkrieg:_Protestantische_Gottesdienstordnungen>
 
 ## Anmerkungen

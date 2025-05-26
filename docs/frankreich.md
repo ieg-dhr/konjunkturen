@@ -1311,7 +1311,7 @@ Eveline G. BOUWERS, Religion und Politik in Frankreich: Von der
 Französischen Revolution bis zur Dritten Republik, in: »Religion und
 Politik. Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in
 der Neuzeit«. Hg. v. Leibniz-Institut für Europäische Geschichte (IEG),
-URL:
+2017, URL:
 [http://wiki.ieg-mainz.de/konjunkturen/index.php?title=Religion_und_Politik_in_Frankreich:\_Von_der_Französischen_Revolution_bis_zur_Dritten_Republik](http://wiki.ieg-mainz.de/konjunkturen/index.php?title=Religion_und_Politik_in_Frankreich:_Von_der_Französischen_Revolution_bis_zur_Dritten_Republik)
 
 ## Anmerkungen

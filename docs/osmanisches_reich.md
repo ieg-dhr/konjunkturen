@@ -75,7 +75,7 @@ Jahrhunderts lenkten zunehmend einflussreiche Wesire und Paschas in
 Istanbul und den Provinzen das Reich, während sich die Sultane oft aus
 der Tagespolitik zurückzogen und primär als übergeordnete
 Legitimationsinstanz dienten. Diese sich wandelnde
-politisch-wirtschaftliche Elite des osmanischen Staates prägte den
+politisch-wirtschaftliche Elite des  Staates prägte den
 politischen Diskurs und das kulturelle Leben maßgeblich, insbesondere in
 den wichtigen Städten des Reiches wie Istanbul, Kairo, Damaskus, Bagdad,
 Edirne oder Bursa.
@@ -401,7 +401,7 @@ durchzusetzen!
 *85 Numaralı Mühimme Defteri (1040--1041 (1042) / 1630--1631 (1632))*,
 Ankara 2002, 127, Nr. 206.
 
-# Quelle 4: Auszug aus den Istanbuler Gerichtsakten von 1726 {#quelle4}
+## Quelle 4: Auszug aus den Istanbuler Gerichtsakten von 1726 {#quelle4}
 
 ### Quellentext {#quellentext_2}
 
@@ -416,110 +416,26 @@ des Zunftvorstehers (*kethüdâ*) erstellt.[^21]
 
 Am 16. Rebî‛ilâhir \[1\]139 \[11. Dezember 1726\]
 
-+-------------+-------------+-------------+-------------+-------------+
-| in          | in          | in          | außerhalb   | in Koca     |
-| Ta          | Nahılbend:\ | Hocapaşa:\  | von         | Mustafa     |
-| vukpazarı:\ | Seyyid      | Hacı Ahmed  | Yedikule:\  | Paşa:\      |
-| Hacı        | Ebubekir    |             | Selim Beşe  | Hasan       |
-| İbrahim     |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| in          | in          | in der Nähe | in          | in der Nähe |
-| Dö          | Kır         | vom         | Zin         | der Fethiye |
-| rtyolağzı:\ | kdörtkapı:\ | İfr         | cirlikuyu:\ | Moschee:\   |
-| Hasan Beşe  | Hasan Beşe  | aziye-Han:\ | Mehmed Beşe | Mehmed Beşe |
-|             |             | Ahmed       |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| am          | am          | in Sultan   | in Hüsrev   | an der      |
-| Havu        | Çukurb      | Selim:\     | Paşa:\      | Çavu        |
-| zlu-Hamam:\ | ostankapı:\ | Ahmed       | Seyyid      | ş-Moschee:\ |
-| Ahmed       | Hacı        |             | Abdullah    | Hacı Mehmed |
-|             | Ebubekir    |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| in          | in Horhor:\ | in          | in          | am          |
-| Sofular:\   | Yusuf       | Saraçhâne:\ | Karaman-ı   | Azeb        |
-| İbrahim     |             | Hüseyin     | kebîr:\     | ler-Markt:\ |
-|             |             |             | Hacı Hasan  | İsmail      |
-+-------------+-------------+-------------+-------------+-------------+
-| am Hâce     | am          | in          | in Küçük    | in          |
-| Hâtun       | Valens      | Kuşbâzlar:\ | Mustafa     | Hocapaşa:\  |
-| Hamam:\     | -Aquädukt:\ | Hüseyin     | Paşa:\      | Seyyid      |
-| İbrahim     | Mustafa     |             | Seyyid      | Mehmed      |
-| Beşe        |             |             | Hüseyin     |             |
-+-------------+-------------+-------------+-------------+-------------+
-| am          | in der      | diesmal (?) | in          | in Bâli     |
-| Çarda       | Çinil       | am Hafen    | A           | Paşa:\      |
-| klı-Hamam:\ | i-Bäckerei\ | von         | ltımermer:\ | Mehmed      |
-| Seyyid      | am Hafen    | Kadırga:\   | Küçük       |             |
-| Hasan       | von         | Seyyid      | Mehmed      |             |
-|             | Kadırga:\   | Hasan       |             |             |
-|             | Mehmed Beşe |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| in Gedik    | in der Nähe | in          | gegenüber   | am          |
-| Paşa:\      | von         | Nişancı:\   | vom         | Anlegesteg  |
-| Seyyid      | Kumkapı:\   | Hacı Mehmed | La          | von         |
-| Mehmed      | Seyyid      |             | nga-Hamam:\ | Davudpaşa:\ |
-|             | Mehmed      |             | Ahmed und   | Mustafa     |
-|             |             |             | Ali         | Beşe        |
-+-------------+-------------+-------------+-------------+-------------+
-| am          | im          | in Küçük    | in          | außerhalb   |
-| Ağa-Hamam:\ | Sa          | Mustafa     | Üsküblü:\   | von         |
-| Yusuf       | matyakapı:\ | Paşa:\      | Hacı Mehmed | Yedikule:\  |
-|             | Hasan Beşe  | Seyyid      |             | Selim und   |
-|             |             | Hüseyin     |             | Mustafa     |
-+-------------+-------------+-------------+-------------+-------------+
-| auch in     | in          | am          | in          | in Haydar   |
-| Üsküblü:\   | Esekapı:\   | Kazas       | Yenibahçe:\ | Paşa:\      |
-| A'mâ Mehmed | Mehmed      | ker-Hamam:\ | İsmail      | Mustafa     |
-|             |             | Mehmed Beşe |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| in Nakkaş   | am          | in          | am          | am          |
-| Paşa:\      | Odab        | Beltaşı:\   | Kü          | Ortakapı:\  |
-| Mehmed Beşe | aşı-Markt:\ | Hacı Mehmed | çük-Hamam:\ | Hacı Mehmed |
-|             | Musa Beşe   |             | Hasan       |             |
-+-------------+-------------+-------------+-------------+-------------+
-| gegenüber   | in          | am          | in          | am          |
-| von         | K           | Dra         | Karaman-ı   | Kaliçeciler |
-| Ac          | aragümrük:\ | man-Markt:\ | sagîr:\     | Köşk:\      |
-| ı-Brunnen:\ | Hâfız       | Usta Hasan  | İbrahim     | Kö\[r\]     |
-| Mehmed      |             | Beşe        |             | Mustafa     |
-+-------------+-------------+-------------+-------------+-------------+
-| in          | in der Nähe | im          | am          | in Koska:\  |
-| Şe          | vom         | V           | V           | Çerye       |
-| hzâdebaşı:\ | Süleyman    | efâ-Markt:\ | efâ-Hamam:\ | *           |
-| Mustafa     | iye-Hamam:\ | Halil       | Mehmed      | zimmî*[^24] |
-|             | İsmail      |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| in          | in          | am          | in der Nähe | in der Nähe |
-| Kadıçeşme:\ | K           | Sul         | von Balat:\ | vom         |
-| Şâhin       | aragümrük:\ | tan-Hamam:\ | Yani        | Fe          |
-| *zimmî*     | Arnavud     | Yani        | *zimmî*     | ner-Hamam:\ |
-|             | *zimmî*     | *zimmî*     |             | Nikola      |
-|             |             |             |             | *zimmî*     |
-+-------------+-------------+-------------+-------------+-------------+
-| Am          | im Kıbtiyân | am          | in          | am          |
-| Fenerkapı:\ | \[Roma\     | Kıbtî       | İncirdibi   | Ba          |
-| Sakızlı     | ]-Viertel:\ | ler-Hamam:\ | in          | lat-Hamam:\ |
-| Yani        | Nikola      | der andere  | Kumkapı:\   | Nikola      |
-|             | *zimmî*     | Nikola      | Yani        |             |
-|             |             |             | *zimmî*     |             |
-+-------------+-------------+-------------+-------------+-------------+
-| in          | am          | in Mi'mâr:\ | am          | in          |
-| Nişancı:\   | Lang        | Köse Yani   | Sama        | Sul         |
-| Topal Dimo  | a-Brunnen:\ |             | tya-Markt:\ | umanastır:\ |
-|             | Serkis      |             | Yuvan zimmî | Ayvaz zimmî |
-+-------------+-------------+-------------+-------------+-------------+
-| am          | \[77a\]     | im          | am Ali      | in der Nähe |
-| Mira        | außerhalb   | Si          | P           | von         |
-| hor-Markt:\ | von         | livrikapı:\ | aşa-Markt:\ | Eğrikapı:\  |
-| Bıyıklı     | Yedikule:\  | Karaca      | Yuvan zimmî | Yuvan zimmî |
-| Yani        | Bıyıklı     | zimmî       |             |             |
-|             | Dimo        |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| in          | in          | in          |             |             |
-| Şehremîni:\ | Sarıgez:\   | Mut         |             |             |
-| Karaca      | Coco        | aflarbaşı:\ |             |             |
-| zimmî       | zimmî[^25]  | Yuvan zimmî |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+|                                   |                                                          |                                                |                                          |                                                   |
+|-----------------------------------|----------------------------------------------------------|------------------------------------------------|------------------------------------------|---------------------------------------------------|
+| in Tavukpazarı: Hacı İbrahim      | in Nahılbend: Seyyid Ebubekir                            | in Hocapaşa: Hacı Ahmed                        | außerhalb von Yedikule: Selim Beşe       | in Koca Mustafa Paşa: Hasan<br>                   |
+| in Dörtyolağzı: Hasan Beşe        | in Kırkdörtkapı: Hasan Beşe                              | in der Nähe vom İfraziye-Han: Ahmed            | in Zincirlikuyu: Mehmed Beşe             | in der Nähe  der Fethiye Moschee: Mehmed Beşe<br> |
+| am Havuzlu-Hamam: Ahmed           | am Çukurbostankapı: Hacı Ebubekir                        | in Sultan Selim: Ahmed                         | in Hüsrev Paşa: Seyyid Abdullah          | an der Çavuş-Moschee: Hacı Mehmed<br>             |
+| in Sofular: İbrahim               | in Horhor: Yusuf                                         | in Saraçhâne: Hüseyin                          | in Karaman-ı kebîr: Hacı Hasan           | am Azebler-Markt: İsmail<br>                      |
+| am Hâce Hâtun Hamam: İbrahim Beşe | am Valens-Aquädukt: Mustafa                              | in Kuşbâzlar: Hüseyin                          | in Küçük Mustafa Paşa: Seyyid Hüseyin    | in Hocapaşa: Seyyid Mehmed<br>                    |
+| am Çardaklı-Hamam: Seyyid Hasan   | in der Çinili-Bäckerei am Hafen von Kadırga: Mehmed Beşe | diesmal (?) am Hafen von Kadırga: Seyyid Hasan | in Altımermer: Küçük Mehmed              | in Bâli Paşa: Mehmed<br>                          |
+| in Gedik Paşa: Seyyid Mehmed      | in der Nähe von Kumkapı: Seyyid Mehmed                   | in Nişancı: Hacı Mehmed                        | gegenüber vom Langa-Hamam: Ahmed und Ali | am Anlegesteg von Davudpaşa: Mustafa Beşe<br>     |
+| am Ağa-Hamam: Yusuf               | im Samatyakapı: Hasan Beşe                               | in Küçük Mustafa Paşa: Seyyid Hüseyin          | in Üsküblü: Hacı Mehmed                  | außerhalb von Yedikule: Selim und Mustafa<br>     |
+| auch in Üsküblü: A’mâ Mehmed      | in Esekapı: Mehmed                                       | am Kazasker-Hamam: Mehmed Beşe                 | in Yenibahçe: İsmail                     | in Haydar Paşa: Mustafa<br>                       |
+| in Nakkaş Paşa: Mehmed Beşe       | am Odabaşı-Markt: Musa Beşe                              | in Beltaşı: Hacı Mehmed                        | am Küçük-Hamam: Hasan                    | am Ortakapı: Hacı Mehmed<br>                      |
+| gegenüber von Acı-Brunnen: Mehmed | in Karagümrük: Hâfız                                     | am Draman-Markt: Usta Hasan Beşe               | in Karaman-ı sagîr: İbrahim              | am Kaliçeciler Köşk: Kö[r] Mustafa<br>            |
+| in Şehzâdebaşı: Mustafa           | in der Nähe vom Süleymaniye-Hamam: İsmail                | im Vefâ-Markt: Halil                           | am Vefâ-Hamam: Mehmed                    | in Koska: Çerye zimmî[^22]<br>              |
+| in Kadıçeşme: Şâhin zimmî         | in Karagümrük: Arnavud zimmî                             | am Sultan-Hamam: Yani zimmî                    | in der Nähe von Balat: Yani zimmî        | in der Nähe vom Fener-Hamam: Nikola zimmî<br>     |
+| Am Fenerkapı: Sakızlı Yani        | im Kıbtiyân [Roma]-Viertel: Nikola zimmî                 | am Kıbtîler-Hamam: der andere Nikola           | in İncirdibi in Kumkapı: Yani zimmî      | am Balat-Hamam: Nikola<br>                        |
+| in Nişancı: Topal Dimo            | am Langa-Brunnen: Serkis                                 | in Mi’mâr: Köse Yani                           | am Samatya-Markt: Yuvan zimmî            | in Sulumanastır: Ayvaz zimmî<br>                  |
+| am Mirahor-Markt: Bıyıklı Yani    | [77a] außerhalb von Yedikule: Bıyıklı Dimo               | im Silivrikapı: Karaca zimmî                   | am Ali Paşa-Markt: Yuvan zimmî           | in der Nähe von Eğrikapı: Yuvan zimmî<br>         |
+| in Şehremîni: Karaca zimmî        | in Sarıgez: Coco zimmî[^23]                       | in Mutaflarbaşı: Yuvan zimmî<br>               |
+
 
 Die oben verzeichneten *Simit*-Bäcker fungieren gegenseitig als Bürgen
 (*kefīl*) und ihr Zunftvorsteher Mehmed Beşe fungiert als ihr
@@ -801,8 +717,7 @@ wichtiger Beweggrund für ihren oft artikulierten Aufruf an den Herrscher
 dass jede Klasse bei ihrer Arbeit bleibt« (*her sınıf ehlini kendü
 'amelinde sâbit ve ka'im eyleye*).[^35]
 
-### Religion und Politik im Blick: Kleidung als äußeres Zeichen von
-Differenz
+### Religion und Politik im Blick: Kleidung als äußeres Zeichen von Differenz
 
 Damit sich die verschiedenen gesellschaftlichen Gruppen nicht leicht
 vermischten, galt es, sie unterscheidbar zu machen. Wie in den meisten
@@ -1090,8 +1005,7 @@ gesellschaftlicher Differenz und Zugehörigkeit wurde also von den
 unterschiedlichen Mitgliedern der Gesellschaft und den religiösen und
 staatlichen Autoritäten immer wieder neu verhandelt.
 
-### Umgang mit dem Anderen: Leben und Arbeiten in der multireligiösen
-Großstadt
+### Umgang mit dem Anderen: Leben und Arbeiten in der multireligiösen Großstadt
 
 Neben den äußeren Zeichen gesellschaftlicher Differenz und Zugehörigkeit
 wurden auch diese selbst immer wieder neu ausgehandelt. Osmanen klagten
@@ -1249,10 +1163,10 @@ unterschiedlichen Akteuren in unterschiedlichen Zeiten unterschiedlich
 eingesetzt.
 
 ## Zitationsempfehlung des Beitrags
-Denise KLEIN, Religion und Politik im Osmanischen Reich: Grundlinien vom 16. bis 18. Jahrhundert, in: »Religion und Politik. Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit«. Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), URL: [https://wiki.ieg-mainz.de/konjunkturen/index.php?title=Religion_und_Politik_im_Osmanischen_Reich:_Grundlinien_vom_16._bis_18._Jahrhundert](https://wiki.ieg-mainz.de/konjunkturen/index.php?title=Religion_und_Politik_im_Osmanischen_Reich:_Grundlinien_vom_16._bis_18._Jahrhundert)
+Denise KLEIN, Religion und Politik im Osmanischen Reich: Grundlinien vom 16. bis 18. Jahrhundert, in: »Religion und Politik. Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit«. Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), URL:
+https://wiki.ieg-mainz.de/konjunkturen/index.php?title=Religion_und_Politik_im_Osmanischen_Reich:_Grundlinien_vom_16._bis_18._Jahrhundert
 
 ## Anmerkungen
-
 [^1]: Angelehnt an Denise KLEIN, Osmanisches Reich, in: Ralf ELGER
     (Hg.), Kleines Islamlexikon, München voraussichtlich <sup>6</sup>2017.
 
@@ -1331,14 +1245,6 @@ Denise KLEIN, Religion und Politik im Osmanischen Reich: Grundlinien vom 16. bis
     Sultans.
 
 [^23]: Dieser Bäcker, Coco oder Çoço, wird in einem anderen Eintrag
-    desselben Jahres als Albaner und Sohn des Kosta identifiziert:
-    *İstanbul Kadı Sicilleri: İstanbul Mahkemesi 24 Numarali Sicil (H.
-    1138--1151/ M. 1726--1738)*, Istanbul 2010, S. 315--317, Nr. 234.
-
-[^24]: *Zimmî* bezeichnet einen nichtmuslimischen »Schutzbefohlenen« des
-    Sultans.
-
-[^25]: Dieser Bäcker, Coco oder Çoço, wird in einem anderen Eintrag
     desselben Jahres als Albaner und Sohn des Kosta identifiziert:
     *İstanbul Kadı Sicilleri: İstanbul Mahkemesi 24 Numarali Sicil (H.
     1138--1151/ M. 1726--1738)*, Istanbul 2010, S. 315--317, Nr. 234.

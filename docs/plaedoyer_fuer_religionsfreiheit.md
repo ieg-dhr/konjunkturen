@@ -1122,7 +1122,7 @@ Sozinianer aus Polen-Litauen stand.
 Kęstutis DAUGIRDAS, Zur Genese des modernen Toleranzgedankens: Das
 sozinianische Plädoyer für Religionsfreiheit, in: »Religion und Politik.
 Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in der
-Neuzeit«. Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), URL:
+Neuzeit«. Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), 2017, URL:
 [http://wiki.ieg-mainz.de/konjunkturen/index.php?title=Zur_Genese_des_modernen_Toleranzgedankens:\_Das_sozinianische_Plädoyer_für_Religionsfreiheit](http://wiki.ieg-mainz.de/konjunkturen/index.php?title=Zur_Genese_des_modernen_Toleranzgedankens:_Das_sozinianische_Plädoyer_für_Religionsfreiheit)
 
 ## Anmerkungen

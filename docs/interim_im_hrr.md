@@ -73,7 +73,7 @@ Die einprägsame Form, verbunden mit bereits bekannten Melodien, war
 besonders geeignet, die Inhalte zu popularisieren und die Diskussion
 weit bis selbst in illiterate Kreise zu verbreiten. Ein Beispiel für
 diese Quellengattung ist »Eines sächsischen Maidleins Klag und Bitt«
-([Quelle 1}(#quelle1)),
+([Quelle 1](#quelle1)),
 entstanden zwischen Mitte 1548 und Ende 1549. Hierin werden keineswegs
 nur die Kriegsgräuel der kaiserlichen Truppen in Deutschland dramatisch
 geschildert, sondern überdies die Widerstandsdebatte neu aufgenommen.
@@ -895,7 +895,7 @@ Jan Martin LIES / Hans-Otto SCHNEIDER, Medienereignis und
 Bekenntnisbildung: Das Interim im Heiligen Römischen Reich, in:
 »Religion und Politik. Eine Quellenanthologie zu gesellschaftlichen
 Konjunkturen in der Neuzeit«. Hg. v. Leibniz-Institut für Europäische
-Geschichte (IEG), URL:
+Geschichte (IEG), 2017, URL:
 [http://wiki.ieg-mainz.de/konjunkturen/index.php?title=Medienereignis_und_Bekenntnisbildung:\_Das_Interim_im_Heiligen_Römischen_Reich](http://wiki.ieg-mainz.de/konjunkturen/index.php?title=Medienereignis_und_Bekenntnisbildung:_Das_Interim_im_Heiligen_Römischen_Reich)
 
 ## Anmerkungen

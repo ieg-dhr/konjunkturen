@@ -1429,7 +1429,7 @@ veröffentlichte zahlreiche Predigten.\
 Henning P. JÜRGENS, Friedensrepräsentationen in der Frühen Neuzeit:
 Friedensfeiern, -predigten und -lieder, in: »Religion und Politik. Eine
 Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit«.
-Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), URL:
+Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), 2017, URL:
 [http://wiki.ieg-mainz.de/konjunkturen/index.php?title=Friedensrepräsentationen_in_der_Frühen_Neuzeit](http://wiki.ieg-mainz.de/konjunkturen/index.php?title=Friedensrepräsentationen_in_der_Frühen_Neuzeit)
 
 ## Anmerkungen

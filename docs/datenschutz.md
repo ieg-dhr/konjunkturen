@@ -7,12 +7,21 @@ Weitere Hinweise finden Sie in der zentralen Datenschutzerklärung des [IEG Main
 ### Verantwortliche Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Leibniz-Institut für Europäische Geschichte
-Prof. Dr. Nicole Reinhardt und Prof. Dr. Johannes Paulmann
-Alte Universitätsstraße 19
-55116 Mainz
+Leibniz-Institut für Europäische Geschichte \
+Alte Universitätsstraße 19 \
+D - 55116 Mainz, Germany \
+Tel: +49 6131 39 39340 \
+Fax: +49 6131 39 21050 \
+E-Mail: info@ieg-mainz.de
+
+Für den Inhalt sind die Direktorin und der Direktor des IEG Prof. Dr. Nicole Reinhardt und Prof. Dr. Johannes Paulmann verantwortlich.
 
 Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.).
+
+Hosting: Zentrum für Datenverarbeitung (ZDV) der  Johannes Gutenberg-Universität Mainz (JGU)
+
+### Logfiles
+Wenn Sie diese Websites besuchen, speichern die Webserver des Hosters temporär jeden Zugriff in einer Protokolldatei. Alle Informationen zur Bereitstellung der Websites und Erstellung von Logfiles finden Sie in der zentralen Datenschutzerklärung der  Johannes Gutenberg-Universität Mainz (JGU): [https://www.uni-mainz.de/datenschutz/](https://www.uni-mainz.de/datenschutz/).
 
 ### Cookies
 Beim Aufruf einzelner Seiten werden so genannte temporäre Cookies verwendet. Diese Session-Cookies beinhalten keine personenbezogenen Daten und werden nach Ablauf der Sitzung mit dem Schließen Ihres Web-Browsers automatisch gelöscht.

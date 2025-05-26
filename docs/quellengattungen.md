@@ -262,3 +262,11 @@ Beispiele:
 * Bernd-A. RUSINEK / Volker ACKERMANN / Jörg ENGELBRECHT (Hg.), Einführung in die Interpretation historischer Quellen. Schwerpunkt: Neuzeit, Paderborn u.a. 1992.
 
 
+## Zitationsempfehlung
+
+Redaktion: Christopher VOIGT-GOY
+
+Quellengattungen, in: »Religion und Politik. Eine Quellenanthologie zu
+gesellschaftlichen Konjunkturen in der Neuzeit«. Hg. v. Leibniz-Institut
+für Europäische Geschichte (IEG), 2017, URL:
+[http://wiki.ieg-mainz.de/konjunkturen](http://wiki.ieg-mainz.de/konjunkturen)

@@ -293,6 +293,13 @@ lassen«.[^14]
 M.A., für ihre vielfältige Unterstützung bei der Bearbeitung der
 Online-Anthologie.*
 
+## Zitationsempfehlung des Beitrags
+
+Christopher VOIGT-GOY, Einleitung, in: »Religion und Politik. Eine Quellenanthologie zu
+gesellschaftlichen Konjunkturen in der Neuzeit«. Hg. v. Leibniz-Institut
+für Europäische Geschichte (IEG), 2017, URL:
+[http://wiki.ieg-mainz.de/konjunkturen/einleitung.html](http://wiki.ieg-mainz.de/konjunkturen/einleitung.html)
+
 ## Anmerkungen
 
 [^1]: Eine kritische Einführung zum Diskussionsstand bietet Friedrich
