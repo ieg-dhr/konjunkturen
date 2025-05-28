@@ -1246,8 +1246,8 @@ Akkulturation oszillierten.
 Cornelia AUST, Die visuelle Ordnung der frühneuzeitlichen Gesellschaft:
 Jüdische Kleiderordnungen, in: »Religion und Politik. Eine
 Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit«.
-Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), 2017, URL:
-[http://wiki.ieg-mainz.de/konjunkturen/index.php?title=Die_visuelle_Ordnung_der_frühneuzeitlichen_Gesellschaft:\_Jüdische_Kleiderordnungen](http://wiki.ieg-mainz.de/konjunkturen/index.php?title=Die_visuelle_Ordnung_der_frühneuzeitlichen_Gesellschaft:_Jüdische_Kleiderordnungen)
+Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), \
+URN: [0159-2505271325418.199787490527](https://nbn-resolving.org/urn:nbn:de:0159-2505271325418.199787490527)
 
 ## Anmerkungen
 

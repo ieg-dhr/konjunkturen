@@ -895,8 +895,8 @@ Jan Martin LIES / Hans-Otto SCHNEIDER, Medienereignis und
 Bekenntnisbildung: Das Interim im Heiligen Römischen Reich, in:
 »Religion und Politik. Eine Quellenanthologie zu gesellschaftlichen
 Konjunkturen in der Neuzeit«. Hg. v. Leibniz-Institut für Europäische
-Geschichte (IEG), 2017, URL:
-[http://wiki.ieg-mainz.de/konjunkturen/index.php?title=Medienereignis_und_Bekenntnisbildung:\_Das_Interim_im_Heiligen_Römischen_Reich](http://wiki.ieg-mainz.de/konjunkturen/index.php?title=Medienereignis_und_Bekenntnisbildung:_Das_Interim_im_Heiligen_Römischen_Reich)
+Geschichte (IEG), \
+URN: [0159-2505271224255.296479248815](https://nbn-resolving.org/urn:nbn:de:0159-2505271224255.296479248815)
 
 ## Anmerkungen
 

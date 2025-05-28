@@ -672,10 +672,8 @@ gebundenen »Konjunkturgeschichte« zu verstehen.
 
 ## Zitationsempfehlung des Beitrags
 
-Mihai-D. GRIGORE, Zwischen orthodoxer Konformität und politischem
-Pragmatismus: Die Walachei im 16. Jahrhundert, in: »Religion und
-Politik. Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in
-der Neuzeit«. Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), 2017, URL: [https://wiki.ieg-mainz.de/konjunkturen/index.php?title=Zwischen_orthodoxer_Konformität_und_politischem_Pragmatismus:_Die_Walachei_im_16._Jahrhundert](https://wiki.ieg-mainz.de/konjunkturen/index.php?title=Zwischen_orthodoxer_Konformität_und_politischem_Pragmatismus:_Die_Walachei_im_16._Jahrhundert)
+Mihai-D. GRIGORE, Zwischen orthodoxer Konformität und politischem Pragmatismus: Die Walachei im 16. Jahrhundert, in: »Religion und Politik. Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit«. Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), 2017, \
+URN: [0159-2505271221490.112130329951](https://nbn-resolving.org/urn:nbn:de:0159-2505271221490.112130329951)
 
 ## Anmerkungen
 

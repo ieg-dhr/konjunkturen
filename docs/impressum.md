@@ -27,6 +27,8 @@ Die auf https://wiki.ieg-mainz.de/konjunkturen/ versammelten Beiträge unterlieg
 
 »Religion und Politik. Eine Quellenanthologie zu gesellschaftlichen
 Konjunkturen in der Neuzeit«. Hg. v. Leibniz-Institut für Europäische
-Geschichte (IEG), 2017, URL: [https://wiki.ieg-mainz.de/konjunkturen](https://wiki.ieg-mainz.de/konjunkturen)
+Geschichte (IEG), 2017, \
+URL: [https://wiki.ieg-mainz.de/konjunkturen](https://wiki.ieg-mainz.de/konjunkturen)\
+URN: [0159-2505271327327.187968365697](https://nbn-resolving.org/urn:nbn:de:0159-2505271327327.187968365697)
 
 Zitationshinweise für die einzelnen Beiträge finden sich jeweils am Ende des Beitrages.

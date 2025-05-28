@@ -297,8 +297,8 @@ Online-Anthologie.*
 
 Christopher VOIGT-GOY, Einleitung, in: »Religion und Politik. Eine Quellenanthologie zu
 gesellschaftlichen Konjunkturen in der Neuzeit«. Hg. v. Leibniz-Institut
-für Europäische Geschichte (IEG), 2017, URL:
-[http://wiki.ieg-mainz.de/konjunkturen/einleitung.html](http://wiki.ieg-mainz.de/konjunkturen/einleitung.html)
+für Europäische Geschichte (IEG), 2017, \
+URN: [0159-2505271327039.174870456901](https://nbn-resolving.org/urn:nbn:de:0159-2505271327039.174870456901)
 
 ## Anmerkungen
 

@@ -1153,8 +1153,8 @@ unterschiedlichen Akteuren in unterschiedlichen Zeiten unterschiedlich
 eingesetzt.
 
 ## Zitationsempfehlung des Beitrags
-Denise KLEIN, Religion und Politik im Osmanischen Reich: Grundlinien vom 16. bis 18. Jahrhundert, in: »Religion und Politik. Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit«. Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), URL:
-https://wiki.ieg-mainz.de/konjunkturen/index.php?title=Religion_und_Politik_im_Osmanischen_Reich:_Grundlinien_vom_16._bis_18._Jahrhundert
+Denise KLEIN, Religion und Politik im Osmanischen Reich: Grundlinien vom 16. bis 18. Jahrhundert, in: »Religion und Politik. Eine Quellenanthologie zu gesellschaftlichen Konjunkturen in der Neuzeit«. Hg. v. Leibniz-Institut für Europäische Geschichte (IEG), \
+URN: [0159-2505271226258.994129463903](https://nbn-resolving.org/urn:nbn:de:0159-2505271226258.994129463903)
 
 ## Anmerkungen
 [^1]: Angelehnt an Denise KLEIN, Osmanisches Reich, in: Ralf ELGER
